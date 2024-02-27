@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Authors>Forever</Authors>
+    <Company>Sunset</Company>
+    <Product>CSGOServersConnection</Product>
+    <ApplicationIcon>1qsSFQOn_400x400.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="1qsSFQOn_400x400.ico" />
+  </ItemGroup>
+
+</Project>

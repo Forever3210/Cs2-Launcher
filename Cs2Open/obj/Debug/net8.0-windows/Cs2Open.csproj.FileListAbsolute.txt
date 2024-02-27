@@ -1,0 +1,32 @@
+D:\Nova pasta\Cs2-Launcher\Cs2Open\bin\Debug\net8.0-windows\Cs2Open.exe
+D:\Nova pasta\Cs2-Launcher\Cs2Open\bin\Debug\net8.0-windows\Cs2Open.deps.json
+D:\Nova pasta\Cs2-Launcher\Cs2Open\bin\Debug\net8.0-windows\Cs2Open.runtimeconfig.json
+D:\Nova pasta\Cs2-Launcher\Cs2Open\bin\Debug\net8.0-windows\Cs2Open.dll
+D:\Nova pasta\Cs2-Launcher\Cs2Open\bin\Debug\net8.0-windows\Cs2Open.pdb
+D:\Nova pasta\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.Form1.resources
+D:\Nova pasta\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.csproj.GenerateResource.cache
+D:\Nova pasta\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.AssemblyInfoInputs.cache
+D:\Nova pasta\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.AssemblyInfo.cs
+D:\Nova pasta\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.csproj.CoreCompileInputs.cache
+D:\Nova pasta\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.dll
+D:\Nova pasta\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\refint\Cs2Open.dll
+D:\Nova pasta\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.pdb
+D:\Nova pasta\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.genruntimeconfig.cache
+D:\Nova pasta\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\ref\Cs2Open.dll
+D:\Util\Cs2-Launcher\Cs2Open\bin\Debug\net8.0-windows\Cs2Open.exe
+D:\Util\Cs2-Launcher\Cs2Open\bin\Debug\net8.0-windows\Cs2Open.deps.json
+D:\Util\Cs2-Launcher\Cs2Open\bin\Debug\net8.0-windows\Cs2Open.runtimeconfig.json
+D:\Util\Cs2-Launcher\Cs2Open\bin\Debug\net8.0-windows\Cs2Open.dll
+D:\Util\Cs2-Launcher\Cs2Open\bin\Debug\net8.0-windows\Cs2Open.pdb
+D:\Util\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.Form1.resources
+D:\Util\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.csproj.GenerateResource.cache
+D:\Util\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.GeneratedMSBuildEditorConfig.editorconfig
+D:\Util\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.AssemblyInfoInputs.cache
+D:\Util\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.AssemblyInfo.cs
+D:\Util\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.csproj.CoreCompileInputs.cache
+D:\Util\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.dll
+D:\Util\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\refint\Cs2Open.dll
+D:\Util\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.pdb
+D:\Util\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\Cs2Open.genruntimeconfig.cache
+D:\Util\Cs2-Launcher\Cs2Open\obj\Debug\net8.0-windows\ref\Cs2Open.dll
