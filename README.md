@@ -7,3 +7,7 @@
 4. Launch Csgo when u want
 5. Let the app do their magic
 6. Wait csgo connect to servers
+
+Why this?
+
+For csgo have connection to servers again and people can change their inventory again.
